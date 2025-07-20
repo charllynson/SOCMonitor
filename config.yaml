@@ -1,0 +1,12 @@
+general:
+  log_file: logs/app.log
+  data_path: data/collected_data.json
+
+collector:
+  sources:
+    - github
+    - pastebin
+  keywords:
+    - "gov.br"
+    - "password"
+    - "leak"
