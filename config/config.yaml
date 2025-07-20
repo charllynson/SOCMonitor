@@ -1,11 +1,10 @@
-general:
-  log_file: logs/app.log
-  data_path: data/collected_data.json
+github_token: "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"
 
 collector:
   sources:
     - github
-    - pastebin
+    - reddit
+    - dark_web
   keywords:
     - "gov.br"
     - "password"
