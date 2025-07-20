@@ -1,5 +1,3 @@
-github_token: "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"
-
 collector:
   sources:
     - github

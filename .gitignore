@@ -1,0 +1,7 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Outras coisas a ignorar...
+__pycache__/
+*.pyc
+data/
