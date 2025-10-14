@@ -1,13 +1,4 @@
-
-# 🛡️ SOCMonitor
-
-███████╗ ██████╗  ██████╗     ███╗   ███╗ ██████╗ ███╗   ██╗██╗████████╗ ██████╗  ██████╗  
-██╔════╝██╔═══██╗██╔═══██╗    ████╗ ████║██╔═══██╗████╗  ██║██║╚══██╔══╝██╔═══██╗██╔═══██╗  
-███████╗██║   ██║██║   ██║    ██╔████╔██║██║   ██║██╔██╗ ██║██║   ██║   ██║   ██║██║   ██║  
-╚════██║██║   ██║██║   ██║    ██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║   ██║   ██║██║   ██║  
-███████║╚██████╔╝╚██████╔╝    ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║   ██║   ╚██████╔╝╚██████╔╝  
-╚══════╝ ╚═════╝  ╚═════╝     ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝    ╚═════╝  ╚═════╝  
-<div align="center">
+🛡️ SOCMonitor
 
 **Uma ferramenta de OSINT para monitoramento contínuo de vazamentos de dados e informações sensíveis.**
 
@@ -19,32 +10,31 @@
 
 ---
 
-## 📖 Sumário
+## Sumário
 
-- [✨ Principais Funcionalidades](#-principais-funcionalidades)  
-- [💻 Pilha Tecnológica](#-pilha-tecnológica)  
-- [⚙️ Como Funciona](#️-como-funciona)  
-- [🚀 Instalação e Configuração](#-instalação-e-configuração)  
-- [▶️ Executando a Ferramenta](#️-executando-a-ferramenta)  
-- [📊 Entendendo a Saída](#-entendendo-a-saída)  
-- [⚖️ Aviso Legal e Ético](#️-aviso-legal-e-ético)  
-- [🤝 Como Contribuir](#-como-contribuir)  
+- [ Principais Funcionalidades](#-principais-funcionalidades)  
+- [ Pilha Tecnológica](#-pilha-tecnológica)  
+- [ Como Funciona](#️-como-funciona)  
+- [ Instalação e Configuração](#-instalação-e-configuração)  
+- [ Executando a Ferramenta](#️-executando-a-ferramenta)  
+- [ Entendendo a Saída](#-entendendo-a-saída)  
+- [ Aviso Legal e Ético](#️-aviso-legal-e-ético)  
 - [📄 Licença](#-licença)
 
 ---
 
-## ✨ Principais Funcionalidades
+##  Principais Funcionalidades
 
-- 🔎 **Monitoramento Multi-Fonte**: GitHub, Reddit e índices da Dark Web  
-- ⚙️ **Análise de Risco Automatizada**: Pontuação de risco para priorização  
-- 🚨 **Alertas Imediatos**: Notificações no console  
-- 🔑 **Busca Configurável**: Palavras-chave definidas pelo usuário  
-- 💾 **Saída Estruturada**: Resultados salvos em JSON  
-- 🧱 **Arquitetura Modular**: Fácil expansão
+-  **Monitoramento Multi-Fonte**: GitHub, Reddit e índices da Dark Web  
+-  **Análise de Risco Automatizada**: Pontuação de risco para priorização  
+-  **Alertas Imediatos**: Notificações no console  
+-  **Busca Configurável**: Palavras-chave definidas pelo usuário  
+-  **Saída Estruturada**: Resultados salvos em JSON  
+-  **Arquitetura Modular**: Fácil expansão
 
 ---
 
-## 💻 Pilha Tecnológica
+## Pilha Tecnológica
 
 - **Linguagem**: Python 3.8+  
 - **HTTP**: `requests`  
